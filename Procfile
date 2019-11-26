@@ -1,1 +1,1 @@
-web: gunicorn search.wsgi --log-file -
+web: gunicorn tapSearch.wsgi --log-file -
